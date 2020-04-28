@@ -1,0 +1,6 @@
+name = "aishwar-new-cloudflare"
+type = "javascript"
+account_id = "b3d3a83e63e82117d9cc9fb98427a74f"
+workers_dev = true
+route = ""
+zone_id = ""
